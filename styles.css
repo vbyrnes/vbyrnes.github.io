@@ -59,7 +59,7 @@ img {
   height: auto;
   margin: 0 auto;
 }
-.sidebar {
+sidebar {
    float: left;
    width: 30%;
    margin-right: 10px;
