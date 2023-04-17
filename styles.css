@@ -60,7 +60,17 @@ img {
   margin: 0 auto;
 }
 
-#img-div {
+#img-div {	
+      .sidebar {
+			float: left;
+			width: 30%;
+			margin-right: 10px;
+		}
+		.main-content {
+			float: left;
+			width: 70%;
+		}
+
   background: white;
   padding: 10px;
   margin: 0;
