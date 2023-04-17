@@ -35,7 +35,9 @@ h2 {
 a {
   color: #477ca7;
 }
-
+a:link {
+  color: blue;
+}
 a:visited {
   color: #74638f;
 }
